@@ -1,2 +1,2 @@
-# api_yatube
-api_yatube
+# yatube-api-crud
+yatube-api-crud
